@@ -1,4 +1,4 @@
-package $package$.playwright
+package $package$
 
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers

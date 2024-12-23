@@ -2,7 +2,7 @@ package $package$
 
 import com.microsoft.playwright.*;
 
-class MySpec extends BaseSpec {
+class MySpec extends BaseChromiumSpec {
   "playwright" should "succeed" in {   
     val page = browser.newPage();
     page.navigate("http://playwright.dev");
