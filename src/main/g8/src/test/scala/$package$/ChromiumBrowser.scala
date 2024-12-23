@@ -1,4 +1,4 @@
-package $package$.playwright
+package $package$
 
 import com.microsoft.playwright.{Playwright, Browser}
 
